@@ -1,0 +1,25 @@
+{
+  "name": "NextJs",
+  "version": "1.0.0",
+  "description": "Aplicando uma novo forma de deploy",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaovw/NextJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaovw/NextJs/issues"
+  },
+  "homepage": "https://github.com/jaovw/NextJs#readme",
+  "dependencies": {
+    "next": "^12.1.6",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
